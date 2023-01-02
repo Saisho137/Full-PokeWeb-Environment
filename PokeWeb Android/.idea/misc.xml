@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/SantiagoPC/AndroidStudioProjects/PokeWeb/app/src/main/res/drawable/gradient_pokeball.xml" value="0.386" />
+        <entry key="..\:/Users/SantiagoPC/AndroidStudioProjects/PokeWeb/app/src/main/res/drawable/rounded.xml" value="0.386" />
+        <entry key="..\:/Users/SantiagoPC/AndroidStudioProjects/PokeWeb/app/src/main/res/drawable/rounded_button.xml" value="0.386" />
+        <entry key="..\:/Users/SantiagoPC/AndroidStudioProjects/PokeWeb/app/src/main/res/drawable/rounded_edit_text.xml" value="0.387" />
+        <entry key="..\:/Users/SantiagoPC/AndroidStudioProjects/PokeWeb/app/src/main/res/drawable/roundedname.xml" value="0.386" />
+        <entry key="..\:/Users/SantiagoPC/AndroidStudioProjects/PokeWeb/app/src/main/res/layout/activity_companions.xml" value="0.3729166666666667" />
+        <entry key="..\:/Users/SantiagoPC/AndroidStudioProjects/PokeWeb/app/src/main/res/layout/activity_main.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/SantiagoPC/AndroidStudioProjects/PokeWeb/app/src/main/res/layout/activity_poke_companion.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/SantiagoPC/AndroidStudioProjects/PokeWeb/app/src/main/res/layout/activity_register.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/SantiagoPC/AndroidStudioProjects/PokeWeb/app/src/main/res/layout/item_pokemon.xml" value="0.3859375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

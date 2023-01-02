@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PokeWeb</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintPassword">Password</string>
+    <string name="hintPassword2">Confirm your Password</string>
+    <string name="btnLogin">Sign In</string>
+    <string name="btnRegister">Register</string>
+    <string name="btnLogin2">Already have an Account? \nClick to Sign In</string>
+    <string name="btnRegister2">Don\'t have an Account? \nClick to Register</string>
+    <string name="tvWelcome">¡Welcome Again To PokeWeb!</string>
+    <string name="tvWelcome2">¡Welcome to PokeWeb!</string>
+    <string name="tvCompanions">Pokemon Companions</string>
+    <string name="numPoke">999</string>
+</resources>
