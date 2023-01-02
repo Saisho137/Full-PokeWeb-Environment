@@ -1,0 +1,12 @@
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaAccesoDBApi\bin\Debug\net6.0\capaAccesoDBApi.deps.json
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaAccesoDBApi\bin\Debug\net6.0\capaAccesoDBApi.dll
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaAccesoDBApi\bin\Debug\net6.0\capaAccesoDBApi.pdb
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaAccesoDBApi\obj\Debug\net6.0\capaAccesoDBApi.csproj.AssemblyReference.cache
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaAccesoDBApi\obj\Debug\net6.0\capaAccesoDBApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaAccesoDBApi\obj\Debug\net6.0\capaAccesoDBApi.AssemblyInfoInputs.cache
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaAccesoDBApi\obj\Debug\net6.0\capaAccesoDBApi.AssemblyInfo.cs
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaAccesoDBApi\obj\Debug\net6.0\capaAccesoDBApi.csproj.CoreCompileInputs.cache
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaAccesoDBApi\obj\Debug\net6.0\capaAccesoDBApi.dll
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaAccesoDBApi\obj\Debug\net6.0\refint\capaAccesoDBApi.dll
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaAccesoDBApi\obj\Debug\net6.0\capaAccesoDBApi.pdb
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaAccesoDBApi\obj\Debug\net6.0\ref\capaAccesoDBApi.dll

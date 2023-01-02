@@ -1,0 +1,15 @@
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaNegocioApi\bin\Debug\net6.0\capaNegocioApi.deps.json
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaNegocioApi\bin\Debug\net6.0\capaNegocioApi.dll
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaNegocioApi\bin\Debug\net6.0\capaNegocioApi.pdb
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaNegocioApi\bin\Debug\net6.0\capaAccesoDBApi.dll
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaNegocioApi\bin\Debug\net6.0\capaAccesoDBApi.pdb
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaNegocioApi\obj\Debug\net6.0\capaNegocioApi.csproj.AssemblyReference.cache
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaNegocioApi\obj\Debug\net6.0\capaNegocioApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaNegocioApi\obj\Debug\net6.0\capaNegocioApi.AssemblyInfoInputs.cache
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaNegocioApi\obj\Debug\net6.0\capaNegocioApi.AssemblyInfo.cs
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaNegocioApi\obj\Debug\net6.0\capaNegocioApi.csproj.CoreCompileInputs.cache
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaNegocioApi\obj\Debug\net6.0\capaNegocioApi.csproj.CopyComplete
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaNegocioApi\obj\Debug\net6.0\capaNegocioApi.dll
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaNegocioApi\obj\Debug\net6.0\refint\capaNegocioApi.dll
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaNegocioApi\obj\Debug\net6.0\capaNegocioApi.pdb
+C:\Users\SantiagoPC\source\repos\ApiRestPokeweb\capaNegocioApi\obj\Debug\net6.0\ref\capaNegocioApi.dll
